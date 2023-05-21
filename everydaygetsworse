@@ -3,7 +3,6 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Emma Adelmann
  */
 public class DecimalToBinary {
 
